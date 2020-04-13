@@ -24,6 +24,7 @@ gem install <gemName>                                       to install gems
 To install gems used following website:                     https://rubygems.org/
 Used for stylesheet_link_tag                                http://tachyons.io/docs/
 To insert logo image_tag                                    https://apidock.com/rails/ActionView/Helpers/AssetTagHelper/image_tag
+Vue.js for UI                                               https://vuejs.org/
 
 
 1. First commit - app 13042020.zip - Application working but no implementation yet of projects and teams views.
